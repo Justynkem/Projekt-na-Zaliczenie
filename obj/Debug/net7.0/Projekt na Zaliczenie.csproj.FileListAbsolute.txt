@@ -1,0 +1,14 @@
+C:\Users\48570\Documents\Programowanie\Projekt na Zaliczenie\bin\Debug\net7.0\Projekt na Zaliczenie.exe
+C:\Users\48570\Documents\Programowanie\Projekt na Zaliczenie\bin\Debug\net7.0\Projekt na Zaliczenie.deps.json
+C:\Users\48570\Documents\Programowanie\Projekt na Zaliczenie\bin\Debug\net7.0\Projekt na Zaliczenie.runtimeconfig.json
+C:\Users\48570\Documents\Programowanie\Projekt na Zaliczenie\bin\Debug\net7.0\Projekt na Zaliczenie.dll
+C:\Users\48570\Documents\Programowanie\Projekt na Zaliczenie\bin\Debug\net7.0\Projekt na Zaliczenie.pdb
+C:\Users\48570\Documents\Programowanie\Projekt na Zaliczenie\obj\Debug\net7.0\Projekt na Zaliczenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48570\Documents\Programowanie\Projekt na Zaliczenie\obj\Debug\net7.0\Projekt na Zaliczenie.AssemblyInfoInputs.cache
+C:\Users\48570\Documents\Programowanie\Projekt na Zaliczenie\obj\Debug\net7.0\Projekt na Zaliczenie.AssemblyInfo.cs
+C:\Users\48570\Documents\Programowanie\Projekt na Zaliczenie\obj\Debug\net7.0\Projekt na Zaliczenie.csproj.CoreCompileInputs.cache
+C:\Users\48570\Documents\Programowanie\Projekt na Zaliczenie\obj\Debug\net7.0\Projekt na Zaliczenie.dll
+C:\Users\48570\Documents\Programowanie\Projekt na Zaliczenie\obj\Debug\net7.0\refint\Projekt na Zaliczenie.dll
+C:\Users\48570\Documents\Programowanie\Projekt na Zaliczenie\obj\Debug\net7.0\Projekt na Zaliczenie.pdb
+C:\Users\48570\Documents\Programowanie\Projekt na Zaliczenie\obj\Debug\net7.0\Projekt na Zaliczenie.genruntimeconfig.cache
+C:\Users\48570\Documents\Programowanie\Projekt na Zaliczenie\obj\Debug\net7.0\ref\Projekt na Zaliczenie.dll
