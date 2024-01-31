@@ -13,8 +13,6 @@ internal class Program
         int choice = 0;
         int flag = 0;
 
-        Random random = new Random();
-
             do
             {
                 Console.Clear();
@@ -73,7 +71,7 @@ internal class Program
                 Console.WriteLine("");
                 Console.WriteLine("The game is over now");
                 Console.WriteLine("");
-                Console.WriteLine("Press any key to leave");
+                Console.WriteLine("Press enter to leave");
                 
             }
             else
